@@ -33,4 +33,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: build-artifacts
-        path: target/x86_64-pc-windows-gnu/release/
+        path: target/x86_64-pc-windows-gnu/release/rcat.exe
